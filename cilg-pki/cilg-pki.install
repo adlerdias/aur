@@ -1,4 +1,0 @@
-post_install() {
-    echo "updating ca trust"
-    update-ca-trust
-}
